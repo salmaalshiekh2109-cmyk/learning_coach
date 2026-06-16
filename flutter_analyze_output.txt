@@ -1,0 +1,398 @@
+﻿Analyzing learning_coach...                                     
+
+  error - The name 'BoxDecoration' is defined in the libraries 'package:flutter/src/painting/box_decoration.dart (via package:flutter/material.dart)' and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\onboarding_screen.dart:34:27 - ambiguous_import
+  error - 'Column' isn't a function - lib\screens\onboarding_screen.dart:50:26 - invocation_of_non_function
+  error - The name 'Column' is defined in the libraries 'package:flutter/src/widgets/basic.dart (via package:flutter/material.dart)' and 'package:learning_coach/screens/parent_shell_screen.dart' - lib\screens\onboarding_screen.dart:50:26 - ambiguous_import
+  error - The name 'SizedBox' is defined in the libraries 'package:flutter/src/widgets/basic.dart (via package:flutter/material.dart)', 'package:learning_coach/screens/parent_shell_screen.dart', and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\onboarding_screen.dart:53:29 - ambiguous_import
+  error - 'BoxDecoration' isn't a function - lib\screens\onboarding_screen.dart:59:37 - invocation_of_non_function
+  error - The name 'BoxDecoration' is defined in the libraries 'package:flutter/src/painting/box_decoration.dart (via package:flutter/material.dart)' and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\onboarding_screen.dart:59:37 - ambiguous_import
+  error - The name 'Text' is defined in the libraries 'package:flutter/src/widgets/text.dart (via package:flutter/material.dart)' and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\onboarding_screen.dart:63:38 - ambiguous_import
+  error - The name 'SizedBox' is defined in the libraries 'package:flutter/src/widgets/basic.dart (via package:flutter/material.dart)', 'package:learning_coach/screens/parent_shell_screen.dart', and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\onboarding_screen.dart:72:29 - ambiguous_import
+  error - 'Text' isn't a function - lib\screens\onboarding_screen.dart:73:23 - invocation_of_non_function
+  error - The name 'Text' is defined in the libraries 'package:flutter/src/widgets/text.dart (via package:flutter/material.dart)' and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\onboarding_screen.dart:73:23 - ambiguous_import
+  error - The name 'SizedBox' is defined in the libraries 'package:flutter/src/widgets/basic.dart (via package:flutter/material.dart)', 'package:learning_coach/screens/parent_shell_screen.dart', and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\onboarding_screen.dart:77:29 - ambiguous_import
+  error - The name 'Text' is defined in the libraries 'package:flutter/src/widgets/text.dart (via package:flutter/material.dart)' and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\onboarding_screen.dart:78:29 - ambiguous_import
+  error - The name 'SizedBox' is defined in the libraries 'package:flutter/src/widgets/basic.dart (via package:flutter/material.dart)', 'package:learning_coach/screens/parent_shell_screen.dart', and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\onboarding_screen.dart:86:29 - ambiguous_import
+  error - The name 'SizedBox' is defined in the libraries 'package:flutter/src/widgets/basic.dart (via package:flutter/material.dart)', 'package:learning_coach/screens/parent_shell_screen.dart', and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\onboarding_screen.dart:105:29 - ambiguous_import
+  error - 'FrostedCard' isn't a function - lib\screens\onboarding_screen.dart:106:23 - invocation_of_non_function
+  error - The name 'FrostedCard' is defined in the libraries 'package:learning_coach/screens/parent_shell_screen.dart' and 'package:learning_coach/widgets/frosted_card.dart' - lib\screens\onboarding_screen.dart:106:23 - ambiguous_import
+  error - 'Column' isn't a function - lib\screens\onboarding_screen.dart:107:32 - invocation_of_non_function
+  error - The name 'Column' is defined in the libraries 'package:flutter/src/widgets/basic.dart (via package:flutter/material.dart)' and 'package:learning_coach/screens/parent_shell_screen.dart' - lib\screens\onboarding_screen.dart:107:32 - ambiguous_import
+  error - Evaluation of this constant expression throws an exception - lib\screens\onboarding_screen.dart:112:33 - const_eval_throws_exception
+  error - 'Text' isn't a function - lib\screens\onboarding_screen.dart:114:42 - invocation_of_non_function
+  error - Invalid constant value - lib\screens\onboarding_screen.dart:114:42 - invalid_constant
+  error - The name 'Text' is defined in the libraries 'package:flutter/src/widgets/text.dart (via package:flutter/material.dart)' and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\onboarding_screen.dart:114:42 - ambiguous_import
+  error - 'Icon' isn't a function - lib\screens\onboarding_screen.dart:115:41 - invocation_of_non_function
+  error - Invalid constant value - lib\screens\onboarding_screen.dart:115:41 - invalid_constant
+  error - The name 'Icon' is defined in the libraries 'package:flutter/src/widgets/icon.dart (via package:flutter/material.dart)' and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\onboarding_screen.dart:115:41 - ambiguous_import
+  error - Evaluation of this constant expression throws an exception - lib\screens\onboarding_screen.dart:117:33 - const_eval_throws_exception
+  error - 'Text' isn't a function - lib\screens\onboarding_screen.dart:119:42 - invocation_of_non_function
+  error - Invalid constant value - lib\screens\onboarding_screen.dart:119:42 - invalid_constant
+  error - The name 'Text' is defined in the libraries 'package:flutter/src/widgets/text.dart (via package:flutter/material.dart)' and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\onboarding_screen.dart:119:42 - ambiguous_import
+  error - 'Icon' isn't a function - lib\screens\onboarding_screen.dart:120:41 - invocation_of_non_function
+  error - Invalid constant value - lib\screens\onboarding_screen.dart:120:41 - invalid_constant
+  error - The name 'Icon' is defined in the libraries 'package:flutter/src/widgets/icon.dart (via package:flutter/material.dart)' and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\onboarding_screen.dart:120:41 - ambiguous_import
+  error - Evaluation of this constant expression throws an exception - lib\screens\onboarding_screen.dart:122:33 - const_eval_throws_exception
+  error - 'Text' isn't a function - lib\screens\onboarding_screen.dart:124:42 - invocation_of_non_function
+  error - Invalid constant value - lib\screens\onboarding_screen.dart:124:42 - invalid_constant
+  error - The name 'Text' is defined in the libraries 'package:flutter/src/widgets/text.dart (via package:flutter/material.dart)' and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\onboarding_screen.dart:124:42 - ambiguous_import
+  error - 'Icon' isn't a function - lib\screens\onboarding_screen.dart:125:41 - invocation_of_non_function
+  error - Invalid constant value - lib\screens\onboarding_screen.dart:125:41 - invalid_constant
+  error - The name 'Icon' is defined in the libraries 'package:flutter/src/widgets/icon.dart (via package:flutter/material.dart)' and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\onboarding_screen.dart:125:41 - ambiguous_import
+  error - The name 'SizedBox' is defined in the libraries 'package:flutter/src/widgets/basic.dart (via package:flutter/material.dart)', 'package:learning_coach/screens/parent_shell_screen.dart', and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\onboarding_screen.dart:144:35 - ambiguous_import
+  error - The name 'SizedBox' is defined in the libraries 'package:flutter/src/widgets/basic.dart (via package:flutter/material.dart)', 'package:learning_coach/screens/parent_shell_screen.dart', and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\onboarding_screen.dart:151:35 - ambiguous_import
+  error - 'SizedBox' isn't a function - lib\screens\onboarding_screen.dart:152:29 - invocation_of_non_function
+  error - The name 'SizedBox' is defined in the libraries 'package:flutter/src/widgets/basic.dart (via package:flutter/material.dart)', 'package:learning_coach/screens/parent_shell_screen.dart', and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\onboarding_screen.dart:152:29 - ambiguous_import
+  error - 'Text' isn't a function - lib\screens\onboarding_screen.dart:160:50 - invocation_of_non_function
+  error - Invalid constant value - lib\screens\onboarding_screen.dart:160:50 - invalid_constant
+  error - The name 'Text' is defined in the libraries 'package:flutter/src/widgets/text.dart (via package:flutter/material.dart)' and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\onboarding_screen.dart:160:50 - ambiguous_import
+  error - 'Text' isn't a function - lib\screens\onboarding_screen.dart:202:40 - invocation_of_non_function
+  error - The name 'Text' is defined in the libraries 'package:flutter/src/widgets/text.dart (via package:flutter/material.dart)' and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\onboarding_screen.dart:202:40 - ambiguous_import
+  error - The name 'SizedBox' is defined in the libraries 'package:flutter/src/widgets/basic.dart (via package:flutter/material.dart)', 'package:learning_coach/screens/parent_shell_screen.dart', and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\onboarding_screen.dart:212:29 - ambiguous_import
+  error - 'SizedBox' isn't a function - lib\screens\onboarding_screen.dart:221:27 - invocation_of_non_function
+  error - The name 'SizedBox' is defined in the libraries 'package:flutter/src/widgets/basic.dart (via package:flutter/material.dart)', 'package:learning_coach/screens/parent_shell_screen.dart', and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\onboarding_screen.dart:221:27 - ambiguous_import
+  error - The values in a const list literal must be constants - lib\screens\onboarding_screen.dart:221:27 - non_constant_list_element
+  error - 'SizedBox' isn't a function - lib\screens\onboarding_screen.dart:228:27 - invocation_of_non_function
+  error - The name 'SizedBox' is defined in the libraries 'package:flutter/src/widgets/basic.dart (via package:flutter/material.dart)', 'package:learning_coach/screens/parent_shell_screen.dart', and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\onboarding_screen.dart:228:27 - ambiguous_import
+  error - The values in a const list literal must be constants - lib\screens\onboarding_screen.dart:228:27 - non_constant_list_element
+  error - 'BoxDecoration' isn't a function - lib\screens\onboarding_screen.dart:259:19 - invocation_of_non_function
+  error - The name 'BoxDecoration' is defined in the libraries 'package:flutter/src/painting/box_decoration.dart (via package:flutter/material.dart)' and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\onboarding_screen.dart:259:19 - ambiguous_import
+  error - 'Icon' isn't a function - lib\screens\onboarding_screen.dart:266:11 - invocation_of_non_function
+  error - The name 'Icon' is defined in the libraries 'package:flutter/src/widgets/icon.dart (via package:flutter/material.dart)' and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\onboarding_screen.dart:266:11 - ambiguous_import
+  error - The name 'SizedBox' is defined in the libraries 'package:flutter/src/widgets/basic.dart (via package:flutter/material.dart)', 'package:learning_coach/screens/parent_shell_screen.dart', and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\onboarding_screen.dart:267:17 - ambiguous_import
+  error - 'Text' isn't a function - lib\screens\onboarding_screen.dart:268:11 - invocation_of_non_function
+  error - The name 'Text' is defined in the libraries 'package:flutter/src/widgets/text.dart (via package:flutter/material.dart)' and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\onboarding_screen.dart:268:11 - ambiguous_import
+  error - 'BoxDecoration' isn't a function - lib\screens\onboarding_screen.dart:288:19 - invocation_of_non_function
+  error - The name 'BoxDecoration' is defined in the libraries 'package:flutter/src/painting/box_decoration.dart (via package:flutter/material.dart)' and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\onboarding_screen.dart:288:19 - ambiguous_import
+  error - 'Column' isn't a function - lib\screens\onboarding_screen.dart:292:14 - invocation_of_non_function
+  error - The name 'Column' is defined in the libraries 'package:flutter/src/widgets/basic.dart (via package:flutter/material.dart)' and 'package:learning_coach/screens/parent_shell_screen.dart' - lib\screens\onboarding_screen.dart:292:14 - ambiguous_import
+  error - 'Text' isn't a function - lib\screens\onboarding_screen.dart:295:11 - invocation_of_non_function
+  error - The name 'Text' is defined in the libraries 'package:flutter/src/widgets/text.dart (via package:flutter/material.dart)' and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\onboarding_screen.dart:295:11 - ambiguous_import
+  error - 'Text' isn't a function - lib\screens\onboarding_screen.dart:299:11 - invocation_of_non_function
+  error - The name 'Text' is defined in the libraries 'package:flutter/src/widgets/text.dart (via package:flutter/material.dart)' and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\onboarding_screen.dart:299:11 - ambiguous_import
+  error - The name 'SizedBox' isn't a class - lib\screens\parent_shell_screen.dart:188:27 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\parent_shell_screen.dart:213:23 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\parent_shell_screen.dart:234:31 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\parent_shell_screen.dart:239:31 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\parent_shell_screen.dart:251:17 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\parent_shell_screen.dart:271:27 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\parent_shell_screen.dart:281:23 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\parent_shell_screen.dart:288:23 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\parent_shell_screen.dart:295:23 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\parent_shell_screen.dart:305:17 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\parent_shell_screen.dart:325:27 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\parent_shell_screen.dart:335:23 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\parent_shell_screen.dart:340:23 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\parent_shell_screen.dart:345:23 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\parent_shell_screen.dart:405:15 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\parent_shell_screen.dart:435:15 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\parent_shell_screen.dart:475:27 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\parent_shell_screen.dart:485:23 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\parent_shell_screen.dart:493:17 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\parent_shell_screen.dart:502:23 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\parent_shell_screen.dart:517:17 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\parent_shell_screen.dart:530:25 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\parent_shell_screen.dart:559:31 - creation_with_non_type
+  error - The named parameter 'width' isn't defined - lib\screens\parent_shell_screen.dart:561:27 - undefined_named_parameter
+  error - The named parameter 'child' isn't defined - lib\screens\parent_shell_screen.dart:562:27 - undefined_named_parameter
+  error - The name 'SizedBox' isn't a class - lib\screens\parent_shell_screen.dart:574:27 - creation_with_non_type
+  error - The named parameter 'padding' isn't defined - lib\screens\parent_shell_screen.dart:647:13 - undefined_named_parameter
+  error - The name 'Column' isn't a class - lib\screens\parent_shell_screen.dart:648:26 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\parent_shell_screen.dart:663:17 - creation_with_non_type
+  error - The named parameter 'padding' isn't defined - lib\screens\parent_shell_screen.dart:666:15 - undefined_named_parameter
+  error - The name 'SizedBox' isn't a class - lib\screens\parent_shell_screen.dart:686:25 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\parent_shell_screen.dart:696:25 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\parent_shell_screen.dart:727:19 - creation_with_non_type
+  error - The named parameter 'padding' isn't defined - lib\screens\parent_shell_screen.dart:789:13 - undefined_named_parameter
+  error - The name 'Column' isn't a class - lib\screens\parent_shell_screen.dart:790:26 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\parent_shell_screen.dart:805:17 - creation_with_non_type
+  error - The named parameter 'padding' isn't defined - lib\screens\parent_shell_screen.dart:808:15 - undefined_named_parameter
+  error - The name 'SizedBox' isn't a class - lib\screens\parent_shell_screen.dart:817:25 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\parent_shell_screen.dart:831:35 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\parent_shell_screen.dart:860:31 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\parent_shell_screen.dart:875:19 - creation_with_non_type
+   info - An uninitialized variable should have an explicit type annotation - lib\screens\parent_shell_screen.dart:883:17 - prefer_typing_uninitialized_variables
+   info - Missing type annotation - lib\screens\parent_shell_screen.dart:883:17 - strict_top_level_inference
+  error - 'return' can't be used as an identifier because it's a keyword - lib\screens\parent_shell_screen.dart:883:17 - expected_identifier_but_got_keyword
+  error - Expected to find ';' - lib\screens\parent_shell_screen.dart:883:17 - expected_token
+  error - Variables must be declared using the keywords 'const', 'final', 'var' or a type name - lib\screens\parent_shell_screen.dart:883:17 - missing_const_final_var_or_type
+   info - Missing type annotation - lib\screens\parent_shell_screen.dart:883:24 - strict_top_level_inference
+   info - The variable name 'Column' isn't a lowerCamelCase identifier - lib\screens\parent_shell_screen.dart:883:24 - non_constant_identifier_names
+   info - Missing type annotation - lib\screens\parent_shell_screen.dart:884:19 - strict_top_level_inference
+  error - Named parameters must be enclosed in curly braces ('{' and '}') - lib\screens\parent_shell_screen.dart:884:37 - named_parameter_outside_group
+  error - Using a colon as the separator before a default value is no longer supported - lib\screens\parent_shell_screen.dart:884:37 - obsolete_colon_for_default_value
+   info - Missing type annotation - lib\screens\parent_shell_screen.dart:885:19 - strict_top_level_inference
+  error - Named parameters must be enclosed in curly braces ('{' and '}') - lib\screens\parent_shell_screen.dart:885:27 - named_parameter_outside_group
+  error - Using a colon as the separator before a default value is no longer supported - lib\screens\parent_shell_screen.dart:885:27 - obsolete_colon_for_default_value
+  error - The default value of an optional parameter must be constant - lib\screens\parent_shell_screen.dart:885:29 - non_constant_default_value
+  error - The name 'SizedBox' isn't a class - lib\screens\parent_shell_screen.dart:893:27 - creation_with_non_type
+  error - Undefined name 'mastery' - lib\screens\parent_shell_screen.dart:894:37 - undefined_identifier
+  error - Undefined name 'accuracy' - lib\screens\parent_shell_screen.dart:895:38 - undefined_identifier
+  error - Undefined name 'state' - lib\screens\parent_shell_screen.dart:897:45 - undefined_identifier
+  error - A function body must be provided - lib\screens\parent_shell_screen.dart:900:18 - missing_function_body
+  error - Expected a method, getter, setter or operator declaration - lib\screens\parent_shell_screen.dart:901:15 - expected_executable
+  error - Expected a method, getter, setter or operator declaration - lib\screens\parent_shell_screen.dart:901:16 - expected_executable
+  error - Expected a method, getter, setter or operator declaration - lib\screens\parent_shell_screen.dart:902:13 - expected_executable
+  error - Expected a method, getter, setter or operator declaration - lib\screens\parent_shell_screen.dart:902:14 - expected_executable
+  error - Expected a method, getter, setter or operator declaration - lib\screens\parent_shell_screen.dart:903:11 - expected_executable
+  error - Expected a method, getter, setter or operator declaration - lib\screens\parent_shell_screen.dart:903:12 - expected_executable
+  error - Can't have modifier 'const' here - lib\screens\parent_shell_screen.dart:904:11 - extraneous_modifier
+   info - Missing type annotation - lib\screens\parent_shell_screen.dart:904:17 - strict_top_level_inference
+   info - The variable name 'SizedBox' isn't a lowerCamelCase identifier - lib\screens\parent_shell_screen.dart:904:17 - non_constant_identifier_names
+   info - Missing type annotation - lib\screens\parent_shell_screen.dart:904:26 - strict_top_level_inference
+  error - Named parameters must be enclosed in curly braces ('{' and '}') - lib\screens\parent_shell_screen.dart:904:32 - named_parameter_outside_group
+  error - Using a colon as the separator before a default value is no longer supported - lib\screens\parent_shell_screen.dart:904:32 - obsolete_colon_for_default_value
+  error - A function body must be provided - lib\screens\parent_shell_screen.dart:904:37 - missing_function_body
+  error - Expected a method, getter, setter or operator declaration - lib\screens\parent_shell_screen.dart:904:37 - expected_executable
+   info - Missing type annotation - lib\screens\parent_shell_screen.dart:905:11 - strict_top_level_inference
+   info - The variable name 'FrostedCard' isn't a lowerCamelCase identifier - lib\screens\parent_shell_screen.dart:905:11 - non_constant_identifier_names
+   info - Missing type annotation - lib\screens\parent_shell_screen.dart:906:13 - strict_top_level_inference
+  error - Named parameters must be enclosed in curly braces ('{' and '}') - lib\screens\parent_shell_screen.dart:906:18 - named_parameter_outside_group
+  error - Using a colon as the separator before a default value is no longer supported - lib\screens\parent_shell_screen.dart:906:18 - obsolete_colon_for_default_value
+  error - Methods can't be invoked in constant expressions - lib\screens\parent_shell_screen.dart:906:20 - const_eval_method_invocation
+  error - Methods can't be invoked in constant expressions - lib\screens\parent_shell_screen.dart:913:17 - const_eval_method_invocation
+  error - A function body must be provided - lib\screens\parent_shell_screen.dart:931:12 - missing_function_body
+  error - Expected a method, getter, setter or operator declaration - lib\screens\parent_shell_screen.dart:931:12 - expected_executable
+  error - Expected a method, getter, setter or operator declaration - lib\screens\parent_shell_screen.dart:932:9 - expected_executable
+  error - Expected a method, getter, setter or operator declaration - lib\screens\parent_shell_screen.dart:932:10 - expected_executable
+  error - Expected a method, getter, setter or operator declaration - lib\screens\parent_shell_screen.dart:933:7 - expected_executable
+  error - Expected a method, getter, setter or operator declaration - lib\screens\parent_shell_screen.dart:933:8 - expected_executable
+  error - Expected a method, getter, setter or operator declaration - lib\screens\parent_shell_screen.dart:934:5 - expected_executable
+  error - Unexpected text ';' - lib\screens\parent_shell_screen.dart:934:6 - unexpected_token
+  error - Expected a method, getter, setter or operator declaration - lib\screens\parent_shell_screen.dart:935:3 - expected_executable
+  error - Expected a method, getter, setter or operator declaration - lib\screens\parent_shell_screen.dart:936:1 - expected_executable
+warning - The declaration '_ParentInsightsTab' isn't referenced - lib\screens\parent_shell_screen.dart:938:7 - unused_element
+  error - The name '_ParentInsightsTab' is already defined - lib\screens\parent_shell_screen.dart:938:7 - duplicate_definition
+  error - The name 'SizedBox' isn't a class - lib\screens\parent_shell_screen.dart:956:23 - creation_with_non_type
+warning - The declaration '_ParentPlannerTab' isn't referenced - lib\screens\parent_shell_screen.dart:976:7 - unused_element
+  error - The name '_ParentPlannerTab' is already defined - lib\screens\parent_shell_screen.dart:976:7 - duplicate_definition
+  error - The named parameter 'margin' isn't defined - lib\screens\parent_shell_screen.dart:993:15 - undefined_named_parameter
+warning - The declaration '_ParentMessagesTab' isn't referenced - lib\screens\parent_shell_screen.dart:1006:7 - unused_element
+  error - The name '_ParentMessagesTab' is already defined - lib\screens\parent_shell_screen.dart:1006:7 - duplicate_definition
+  error - The named parameter 'margin' isn't defined - lib\screens\parent_shell_screen.dart:1022:15 - undefined_named_parameter
+  error - The name 'Text' is defined in the libraries 'package:flutter/src/widgets/text.dart (via package:flutter/material.dart)' and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\results_screen.dart:48:35 - ambiguous_import
+  error - 'ListView' isn't a function - lib\screens\results_screen.dart:50:16 - invocation_of_non_function
+  error - The name 'ListView' is defined in the libraries 'package:flutter/src/widgets/scroll_view.dart (via package:flutter/material.dart)' and 'package:learning_coach/screens/teacher_shell_screen.dart' - lib\screens\results_screen.dart:50:16 - ambiguous_import
+  error - 'BoxDecoration' isn't a function - lib\screens\results_screen.dart:54:27 - invocation_of_non_function
+  error - The name 'BoxDecoration' is defined in the libraries 'package:flutter/src/painting/box_decoration.dart (via package:flutter/material.dart)' and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\results_screen.dart:54:27 - ambiguous_import
+  error - 'Column' isn't a function - lib\screens\results_screen.dart:69:22 - invocation_of_non_function
+  error - The name 'Column' is defined in the libraries 'package:flutter/src/widgets/basic.dart (via package:flutter/material.dart)' and 'package:learning_coach/screens/parent_shell_screen.dart' - lib\screens\results_screen.dart:69:22 - ambiguous_import
+  error - 'Text' isn't a function - lib\screens\results_screen.dart:72:19 - invocation_of_non_function
+  error - The name 'Text' is defined in the libraries 'package:flutter/src/widgets/text.dart (via package:flutter/material.dart)' and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\results_screen.dart:72:19 - ambiguous_import
+  error - The name 'SizedBox' is defined in the libraries 'package:flutter/src/widgets/basic.dart (via package:flutter/material.dart)', 'package:learning_coach/screens/parent_shell_screen.dart', and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\results_screen.dart:80:25 - ambiguous_import
+  error - 'Text' isn't a function - lib\screens\results_screen.dart:81:19 - invocation_of_non_function
+  error - The name 'Text' is defined in the libraries 'package:flutter/src/widgets/text.dart (via package:flutter/material.dart)' and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\results_screen.dart:81:19 - ambiguous_import
+  error - 'Text' isn't a function - lib\screens\results_screen.dart:85:19 - invocation_of_non_function
+  error - The name 'Text' is defined in the libraries 'package:flutter/src/widgets/text.dart (via package:flutter/material.dart)' and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\results_screen.dart:85:19 - ambiguous_import
+  error - 'Text' isn't a function - lib\screens\results_screen.dart:89:19 - invocation_of_non_function
+  error - The name 'Text' is defined in the libraries 'package:flutter/src/widgets/text.dart (via package:flutter/material.dart)' and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\results_screen.dart:89:19 - ambiguous_import
+  error - The name 'SizedBox' is defined in the libraries 'package:flutter/src/widgets/basic.dart (via package:flutter/material.dart)', 'package:learning_coach/screens/parent_shell_screen.dart', and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\results_screen.dart:96:19 - ambiguous_import
+  error - 'FrostedCard' isn't a function - lib\screens\results_screen.dart:97:13 - invocation_of_non_function
+  error - The name 'FrostedCard' is defined in the libraries 'package:learning_coach/screens/parent_shell_screen.dart' and 'package:learning_coach/widgets/frosted_card.dart' - lib\screens\results_screen.dart:97:13 - ambiguous_import
+  error - The name 'Icon' is defined in the libraries 'package:flutter/src/widgets/icon.dart (via package:flutter/material.dart)' and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\results_screen.dart:101:32 - ambiguous_import
+  error - The name 'Text' is defined in the libraries 'package:flutter/src/widgets/text.dart (via package:flutter/material.dart)' and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\results_screen.dart:102:30 - ambiguous_import
+  error - 'Text' isn't a function - lib\screens\results_screen.dart:108:26 - invocation_of_non_function
+  error - The name 'Text' is defined in the libraries 'package:flutter/src/widgets/text.dart (via package:flutter/material.dart)' and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\results_screen.dart:108:26 - ambiguous_import
+  error - The name 'SizedBox' is defined in the libraries 'package:flutter/src/widgets/basic.dart (via package:flutter/material.dart)', 'package:learning_coach/screens/parent_shell_screen.dart', and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\results_screen.dart:114:19 - ambiguous_import
+  error - The name 'Icon' is defined in the libraries 'package:flutter/src/widgets/icon.dart (via package:flutter/material.dart)' and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\results_screen.dart:132:27 - ambiguous_import
+  error - The name 'Text' is defined in the libraries 'package:flutter/src/widgets/text.dart (via package:flutter/material.dart)' and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\results_screen.dart:133:28 - ambiguous_import
+  error - The name 'SizedBox' is defined in the libraries 'package:flutter/src/widgets/basic.dart (via package:flutter/material.dart)', 'package:learning_coach/screens/parent_shell_screen.dart', and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\results_screen.dart:135:19 - ambiguous_import
+  error - The name 'Icon' is defined in the libraries 'package:flutter/src/widgets/icon.dart (via package:flutter/material.dart)' and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\results_screen.dart:145:27 - ambiguous_import
+  error - The name 'Text' is defined in the libraries 'package:flutter/src/widgets/text.dart (via package:flutter/material.dart)' and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\results_screen.dart:146:28 - ambiguous_import
+  error - The name 'SizedBox' is defined in the libraries 'package:flutter/src/widgets/basic.dart (via package:flutter/material.dart)', 'package:learning_coach/screens/parent_shell_screen.dart', and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\results_screen.dart:148:19 - ambiguous_import
+  error - The name 'Icon' is defined in the libraries 'package:flutter/src/widgets/icon.dart (via package:flutter/material.dart)' and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\results_screen.dart:158:27 - ambiguous_import
+  error - The name 'Text' is defined in the libraries 'package:flutter/src/widgets/text.dart (via package:flutter/material.dart)' and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\results_screen.dart:159:28 - ambiguous_import
+  error - The name 'SizedBox' is defined in the libraries 'package:flutter/src/widgets/basic.dart (via package:flutter/material.dart)', 'package:learning_coach/screens/parent_shell_screen.dart', and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\results_screen.dart:161:19 - ambiguous_import
+  error - The name 'Icon' is defined in the libraries 'package:flutter/src/widgets/icon.dart (via package:flutter/material.dart)' and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\results_screen.dart:171:27 - ambiguous_import
+  error - The name 'Text' is defined in the libraries 'package:flutter/src/widgets/text.dart (via package:flutter/material.dart)' and 'package:learning_coach/screens/student_shell_screen.dart' - lib\screens\results_screen.dart:172:28 - ambiguous_import
+  error - The name 'Text' isn't a class - lib\screens\student_shell_screen.dart:48:24 - creation_with_non_type
+  error - The name 'Icon' isn't a class - lib\screens\student_shell_screen.dart:61:27 - creation_with_non_type
+  error - Methods can't be invoked in constant expressions - lib\screens\student_shell_screen.dart:105:21 - const_eval_method_invocation
+  error - Methods can't be invoked in constant expressions - lib\screens\student_shell_screen.dart:109:21 - const_eval_method_invocation
+  error - Methods can't be invoked in constant expressions - lib\screens\student_shell_screen.dart:113:21 - const_eval_method_invocation
+  error - Methods can't be invoked in constant expressions - lib\screens\student_shell_screen.dart:117:21 - const_eval_method_invocation
+  error - The named parameter 'gradient' isn't defined - lib\screens\student_shell_screen.dart:163:15 - undefined_named_parameter
+  error - The named parameter 'boxShadow' isn't defined - lib\screens\student_shell_screen.dart:168:15 - undefined_named_parameter
+  error - The name 'SizedBox' isn't a class - lib\screens\student_shell_screen.dart:193:27 - creation_with_non_type
+  error - The name 'Text' isn't a class - lib\screens\student_shell_screen.dart:206:33 - creation_with_non_type
+  error - The name 'Icon' isn't a class - lib\screens\student_shell_screen.dart:227:33 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\student_shell_screen.dart:232:33 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\student_shell_screen.dart:246:23 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\student_shell_screen.dart:250:27 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\student_shell_screen.dart:252:27 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\student_shell_screen.dart:259:17 - creation_with_non_type
+  error - The name 'Icon' isn't a class - lib\screens\student_shell_screen.dart:273:36 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\student_shell_screen.dart:279:27 - creation_with_non_type
+  error - The name 'Text' isn't a class - lib\screens\student_shell_screen.dart:280:27 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\student_shell_screen.dart:286:23 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\student_shell_screen.dart:295:23 - creation_with_non_type
+  error - The name 'Text' isn't a class - lib\screens\student_shell_screen.dart:296:23 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\student_shell_screen.dart:300:23 - creation_with_non_type
+  error - The named parameter 'width' isn't defined - lib\screens\student_shell_screen.dart:302:19 - undefined_named_parameter
+  error - The named parameter 'child' isn't defined - lib\screens\student_shell_screen.dart:303:19 - undefined_named_parameter
+  error - The name 'Icon' isn't a class - lib\screens\student_shell_screen.dart:311:33 - creation_with_non_type
+  error - The name 'Text' isn't a class - lib\screens\student_shell_screen.dart:312:34 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\student_shell_screen.dart:318:17 - creation_with_non_type
+  error - The name 'Icon' isn't a class - lib\screens\student_shell_screen.dart:332:36 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\student_shell_screen.dart:338:27 - creation_with_non_type
+  error - The name 'Text' isn't a class - lib\screens\student_shell_screen.dart:339:27 - creation_with_non_type
+  error - The name 'Text' isn't a class - lib\screens\student_shell_screen.dart:356:36 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\student_shell_screen.dart:367:23 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\student_shell_screen.dart:381:17 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\student_shell_screen.dart:391:21 - creation_with_non_type
+  error - The named parameter 'border' isn't defined - lib\screens\student_shell_screen.dart:412:11 - undefined_named_parameter
+  error - The named parameter 'border' isn't defined - lib\screens\student_shell_screen.dart:445:11 - undefined_named_parameter
+  error - The name 'SizedBox' isn't a class - lib\screens\student_shell_screen.dart:450:19 - creation_with_non_type
+  error - Methods can't be invoked in constant expressions - lib\screens\student_shell_screen.dart:518:17 - const_eval_method_invocation
+  error - The name 'SizedBox' isn't a class - lib\screens\student_shell_screen.dart:530:17 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\student_shell_screen.dart:547:19 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\student_shell_screen.dart:591:21 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\student_shell_screen.dart:603:27 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\student_shell_screen.dart:618:31 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\student_shell_screen.dart:629:27 - creation_with_non_type
+  error - The name 'Text' isn't a class - lib\screens\student_shell_screen.dart:630:27 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\student_shell_screen.dart:640:21 - creation_with_non_type
+  error - The name 'Icon' isn't a class - lib\screens\student_shell_screen.dart:648:30 - creation_with_non_type
+  error - The named parameter 'gradient' isn't defined - lib\screens\student_shell_screen.dart:708:15 - undefined_named_parameter
+  error - The named parameter 'boxShadow' isn't defined - lib\screens\student_shell_screen.dart:713:15 - undefined_named_parameter
+  error - The name 'Text' isn't a class - lib\screens\student_shell_screen.dart:724:23 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\student_shell_screen.dart:732:23 - creation_with_non_type
+  error - The name 'Text' isn't a class - lib\screens\student_shell_screen.dart:733:23 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\student_shell_screen.dart:737:23 - creation_with_non_type
+  error - The name 'Text' isn't a class - lib\screens\student_shell_screen.dart:740:27 - creation_with_non_type
+  error - The name 'Text' isn't a class - lib\screens\student_shell_screen.dart:758:36 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\student_shell_screen.dart:769:23 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\student_shell_screen.dart:783:17 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\student_shell_screen.dart:798:25 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\student_shell_screen.dart:809:25 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\student_shell_screen.dart:831:19 - creation_with_non_type
+  error - Methods can't be invoked in constant expressions - lib\screens\student_shell_screen.dart:898:17 - const_eval_method_invocation
+  error - The name 'SizedBox' isn't a class - lib\screens\student_shell_screen.dart:910:17 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\student_shell_screen.dart:925:25 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\student_shell_screen.dart:937:31 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\student_shell_screen.dart:948:25 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\student_shell_screen.dart:969:29 - creation_with_non_type
+  error - The name 'Icon' isn't a class - lib\screens\student_shell_screen.dart:970:29 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\student_shell_screen.dart:980:19 - creation_with_non_type
+   info - An uninitialized variable should have an explicit type annotation - lib\screens\student_shell_screen.dart:987:25 - prefer_typing_uninitialized_variables
+   info - Missing type annotation - lib\screens\student_shell_screen.dart:987:25 - strict_top_level_inference
+  error - Expected to find ';' - lib\screens\student_shell_screen.dart:987:25 - expected_token
+  error - Variables must be declared using the keywords 'const', 'final', 'var' or a type name - lib\screens\student_shell_screen.dart:987:25 - missing_const_final_var_or_type
+  error - Expected a method, getter, setter or operator declaration - lib\screens\student_shell_screen.dart:987:35 - expected_executable
+   info - Missing type annotation - lib\screens\student_shell_screen.dart:987:37 - strict_top_level_inference
+   info - The variable name 'BoxDecoration' isn't a lowerCamelCase identifier - lib\screens\student_shell_screen.dart:987:37 - non_constant_identifier_names
+   info - Missing type annotation - lib\screens\student_shell_screen.dart:988:27 - strict_top_level_inference
+  error - Named parameters must be enclosed in curly braces ('{' and '}') - lib\screens\student_shell_screen.dart:988:32 - named_parameter_outside_group
+  error - Using a colon as the separator before a default value is no longer supported - lib\screens\student_shell_screen.dart:988:32 - obsolete_colon_for_default_value
+  error - Undefined name 'item' - lib\screens\student_shell_screen.dart:988:34 - undefined_identifier
+   info - Missing type annotation - lib\screens\student_shell_screen.dart:989:27 - strict_top_level_inference
+  error - Named parameters must be enclosed in curly braces ('{' and '}') - lib\screens\student_shell_screen.dart:989:39 - named_parameter_outside_group
+  error - Using a colon as the separator before a default value is no longer supported - lib\screens\student_shell_screen.dart:989:39 - obsolete_colon_for_default_value
+  error - The default value of an optional parameter must be constant - lib\screens\student_shell_screen.dart:989:41 - non_constant_default_value
+  error - A function body must be provided - lib\screens\student_shell_screen.dart:990:26 - missing_function_body
+  error - Expected a method, getter, setter or operator declaration - lib\screens\student_shell_screen.dart:990:26 - expected_executable
+   info - An uninitialized variable should have an explicit type annotation - lib\screens\student_shell_screen.dart:991:25 - prefer_typing_uninitialized_variables
+   info - Missing type annotation - lib\screens\student_shell_screen.dart:991:25 - strict_top_level_inference
+  error - Expected to find ';' - lib\screens\student_shell_screen.dart:991:25 - expected_token
+  error - Variables must be declared using the keywords 'const', 'final', 'var' or a type name - lib\screens\student_shell_screen.dart:991:25 - missing_const_final_var_or_type
+  error - Expected a method, getter, setter or operator declaration - lib\screens\student_shell_screen.dart:991:30 - expected_executable
+   info - Missing type annotation - lib\screens\student_shell_screen.dart:991:32 - strict_top_level_inference
+   info - The variable name 'Text' isn't a lowerCamelCase identifier - lib\screens\student_shell_screen.dart:991:32 - non_constant_identifier_names
+  error - Undefined class 'duration' - lib\screens\student_shell_screen.dart:992:27 - undefined_class
+  error - Expected an identifier - lib\screens\student_shell_screen.dart:992:40 - missing_identifier
+  error - Named parameters must be enclosed in curly braces ('{' and '}') - lib\screens\student_shell_screen.dart:993:32 - named_parameter_outside_group
+  error - Using a colon as the separator before a default value is no longer supported - lib\screens\student_shell_screen.dart:993:32 - obsolete_colon_for_default_value
+  error - The default value of an optional parameter must be constant - lib\screens\student_shell_screen.dart:993:34 - non_constant_default_value
+  error - Undefined name 'item' - lib\screens\student_shell_screen.dart:994:36 - undefined_identifier
+  error - A function body must be provided - lib\screens\student_shell_screen.dart:998:26 - missing_function_body
+  error - Expected a method, getter, setter or operator declaration - lib\screens\student_shell_screen.dart:998:26 - expected_executable
+  error - Expected a method, getter, setter or operator declaration - lib\screens\student_shell_screen.dart:999:23 - expected_executable
+  error - Expected a method, getter, setter or operator declaration - lib\screens\student_shell_screen.dart:999:24 - expected_executable
+  error - Can't have modifier 'const' here - lib\screens\student_shell_screen.dart:1000:23 - extraneous_modifier
+   info - Missing type annotation - lib\screens\student_shell_screen.dart:1000:29 - strict_top_level_inference
+   info - The variable name 'SizedBox' isn't a lowerCamelCase identifier - lib\screens\student_shell_screen.dart:1000:29 - non_constant_identifier_names
+   info - Missing type annotation - lib\screens\student_shell_screen.dart:1000:38 - strict_top_level_inference
+  error - Named parameters must be enclosed in curly braces ('{' and '}') - lib\screens\student_shell_screen.dart:1000:44 - named_parameter_outside_group
+  error - Using a colon as the separator before a default value is no longer supported - lib\screens\student_shell_screen.dart:1000:44 - obsolete_colon_for_default_value
+  error - A function body must be provided - lib\screens\student_shell_screen.dart:1000:48 - missing_function_body
+  error - Expected a method, getter, setter or operator declaration - lib\screens\student_shell_screen.dart:1000:48 - expected_executable
+  error - Can't have modifier 'const' here - lib\screens\student_shell_screen.dart:1001:23 - extraneous_modifier
+   info - Missing type annotation - lib\screens\student_shell_screen.dart:1001:29 - strict_top_level_inference
+   info - The variable name 'Icon' isn't a lowerCamelCase identifier - lib\screens\student_shell_screen.dart:1001:29 - non_constant_identifier_names
+  error - Icons.arrow_forward_ios_rounded isn't a type - lib\screens\student_shell_screen.dart:1002:25 - not_a_type
+  error - Expected an identifier - lib\screens\student_shell_screen.dart:1002:56 - missing_identifier
+  error - Named parameters must be enclosed in curly braces ('{' and '}') - lib\screens\student_shell_screen.dart:1003:29 - named_parameter_outside_group
+  error - Using a colon as the separator before a default value is no longer supported - lib\screens\student_shell_screen.dart:1003:29 - obsolete_colon_for_default_value
+  error - Named parameters must be enclosed in curly braces ('{' and '}') - lib\screens\student_shell_screen.dart:1004:30 - named_parameter_outside_group
+  error - Using a colon as the separator before a default value is no longer supported - lib\screens\student_shell_screen.dart:1004:30 - obsolete_colon_for_default_value
+  error - The default value of an optional parameter must be constant - lib\screens\student_shell_screen.dart:1004:32 - non_constant_default_value
+  error - A function body must be provided - lib\screens\student_shell_screen.dart:1005:24 - missing_function_body
+  error - Expected a method, getter, setter or operator declaration - lib\screens\student_shell_screen.dart:1005:24 - expected_executable
+  error - Expected a method, getter, setter or operator declaration - lib\screens\student_shell_screen.dart:1006:21 - expected_executable
+  error - Expected a method, getter, setter or operator declaration - lib\screens\student_shell_screen.dart:1006:22 - expected_executable
+  error - Expected a method, getter, setter or operator declaration - lib\screens\student_shell_screen.dart:1007:19 - expected_executable
+  error - Expected a method, getter, setter or operator declaration - lib\screens\student_shell_screen.dart:1007:20 - expected_executable
+  error - Expected a method, getter, setter or operator declaration - lib\screens\student_shell_screen.dart:1008:17 - expected_executable
+  error - Expected a method, getter, setter or operator declaration - lib\screens\student_shell_screen.dart:1008:18 - expected_executable
+  error - Expected a method, getter, setter or operator declaration - lib\screens\student_shell_screen.dart:1009:15 - expected_executable
+  error - Expected a method, getter, setter or operator declaration - lib\screens\student_shell_screen.dart:1009:16 - expected_executable
+  error - Expected a method, getter, setter or operator declaration - lib\screens\student_shell_screen.dart:1010:13 - expected_executable
+  error - Expected a method, getter, setter or operator declaration - lib\screens\student_shell_screen.dart:1010:14 - expected_executable
+  error - Can't have modifier 'const' here - lib\screens\student_shell_screen.dart:1011:13 - extraneous_modifier
+   info - Missing type annotation - lib\screens\student_shell_screen.dart:1011:19 - strict_top_level_inference
+   info - The variable name 'SizedBox' isn't a lowerCamelCase identifier - lib\screens\student_shell_screen.dart:1011:19 - non_constant_identifier_names
+  error - The name 'SizedBox' is already defined - lib\screens\student_shell_screen.dart:1011:19 - duplicate_definition
+   info - Missing type annotation - lib\screens\student_shell_screen.dart:1011:28 - strict_top_level_inference
+  error - Named parameters must be enclosed in curly braces ('{' and '}') - lib\screens\student_shell_screen.dart:1011:34 - named_parameter_outside_group
+  error - Using a colon as the separator before a default value is no longer supported - lib\screens\student_shell_screen.dart:1011:34 - obsolete_colon_for_default_value
+  error - A function body must be provided - lib\screens\student_shell_screen.dart:1011:38 - missing_function_body
+  error - Expected a method, getter, setter or operator declaration - lib\screens\student_shell_screen.dart:1011:38 - expected_executable
+  error - Expected a method, getter, setter or operator declaration - lib\screens\student_shell_screen.dart:1012:11 - expected_executable
+  error - Expected a method, getter, setter or operator declaration - lib\screens\student_shell_screen.dart:1012:12 - expected_executable
+  error - Expected a method, getter, setter or operator declaration - lib\screens\student_shell_screen.dart:1013:9 - expected_executable
+  error - Expected a method, getter, setter or operator declaration - lib\screens\student_shell_screen.dart:1013:10 - expected_executable
+  error - Expected a method, getter, setter or operator declaration - lib\screens\student_shell_screen.dart:1014:7 - expected_executable
+  error - Expected a method, getter, setter or operator declaration - lib\screens\student_shell_screen.dart:1014:8 - expected_executable
+  error - Expected a method, getter, setter or operator declaration - lib\screens\student_shell_screen.dart:1015:5 - expected_executable
+  error - Unexpected text ';' - lib\screens\student_shell_screen.dart:1015:6 - unexpected_token
+  error - Expected a method, getter, setter or operator declaration - lib\screens\student_shell_screen.dart:1016:3 - expected_executable
+  error - Expected a method, getter, setter or operator declaration - lib\screens\student_shell_screen.dart:1017:1 - expected_executable
+   info - An uninitialized variable should have an explicit type annotation - lib\screens\teacher_shell_screen.dart:817:11 - prefer_typing_uninitialized_variables
+   info - Missing type annotation - lib\screens\teacher_shell_screen.dart:817:11 - strict_top_level_inference
+  error - Expected to find ';' - lib\screens\teacher_shell_screen.dart:817:11 - expected_token
+  error - Variables must be declared using the keywords 'const', 'final', 'var' or a type name - lib\screens\teacher_shell_screen.dart:817:11 - missing_const_final_var_or_type
+  error - Expected a method, getter, setter or operator declaration - lib\screens\teacher_shell_screen.dart:817:16 - expected_executable
+   info - Missing type annotation - lib\screens\teacher_shell_screen.dart:817:18 - strict_top_level_inference
+   info - The variable name 'ListView' isn't a lowerCamelCase identifier - lib\screens\teacher_shell_screen.dart:817:18 - non_constant_identifier_names
+   info - Missing type annotation - lib\screens\teacher_shell_screen.dart:818:13 - strict_top_level_inference
+  error - Named parameters must be enclosed in curly braces ('{' and '}') - lib\screens\teacher_shell_screen.dart:818:21 - named_parameter_outside_group
+  error - Using a colon as the separator before a default value is no longer supported - lib\screens\teacher_shell_screen.dart:818:21 - obsolete_colon_for_default_value
+  error - The default value of an optional parameter must be constant - lib\screens\teacher_shell_screen.dart:818:23 - non_constant_default_value
+  error - Undefined name 'data' - lib\screens\teacher_shell_screen.dart:832:35 - undefined_identifier
+  error - Undefined name 'data' - lib\screens\teacher_shell_screen.dart:836:31 - undefined_identifier
+  error - Undefined name 'data' - lib\screens\teacher_shell_screen.dart:855:41 - undefined_identifier
+  error - A function body must be provided - lib\screens\teacher_shell_screen.dart:865:12 - missing_function_body
+  error - Expected a method, getter, setter or operator declaration - lib\screens\teacher_shell_screen.dart:865:12 - expected_executable
+  error - Expected a method, getter, setter or operator declaration - lib\screens\teacher_shell_screen.dart:866:9 - expected_executable
+  error - Unexpected text ';' - lib\screens\teacher_shell_screen.dart:866:10 - unexpected_token
+  error - Expected a method, getter, setter or operator declaration - lib\screens\teacher_shell_screen.dart:867:7 - expected_executable
+  error - Expected a method, getter, setter or operator declaration - lib\screens\teacher_shell_screen.dart:867:8 - expected_executable
+  error - Expected a method, getter, setter or operator declaration - lib\screens\teacher_shell_screen.dart:868:5 - expected_executable
+  error - Unexpected text ';' - lib\screens\teacher_shell_screen.dart:868:6 - unexpected_token
+  error - Expected a method, getter, setter or operator declaration - lib\screens\teacher_shell_screen.dart:869:3 - expected_executable
+  error - Expected a method, getter, setter or operator declaration - lib\screens\teacher_shell_screen.dart:870:1 - expected_executable
+warning - The declaration '_TeacherClassesTab' isn't referenced - lib\screens\teacher_shell_screen.dart:872:7 - unused_element
+  error - The name '_TeacherClassesTab' is already defined - lib\screens\teacher_shell_screen.dart:872:7 - duplicate_definition
+warning - The declaration '_TeacherAssignmentsTab' isn't referenced - lib\screens\teacher_shell_screen.dart:900:7 - unused_element
+  error - The name '_TeacherAssignmentsTab' is already defined - lib\screens\teacher_shell_screen.dart:900:7 - duplicate_definition
+warning - The declaration '_TeacherAlertsTab' isn't referenced - lib\screens\teacher_shell_screen.dart:929:7 - unused_element
+  error - The name '_TeacherAlertsTab' is already defined - lib\screens\teacher_shell_screen.dart:929:7 - duplicate_definition
+
+flutter : 387 issues found. (ran in 2.7s)
+At line:1 char:1
++ flutter analyze 2>&1 | Out-File -FilePath "flutter_analyze_output.txt ...
++ ~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (387 issues found. (ran in 2.7s):S 
+   tring) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
